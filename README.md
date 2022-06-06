@@ -1,3 +1,4 @@
+![Keyboard](Keyboard.png "Interslavic keyboard")
 # MS (Latinica):
 
 Oproščena medžuslovjanska klaviatura (na Windows)  
