@@ -1,10 +1,9 @@
 ![Keyboard](Keyboard.png "Interslavic keyboard")
 # MS (Latinica):
 
-Oproščena medžuslovjanska klaviatura (na Windows)  
-Ne imaje simbolov iz inyh slovjanskyh językov, kak ć, ą, á, đ, itd.  
-Imaje jedino (imajmo naděju) simboly, ktore sųt v [slovniku](https://interslavic-dictionary.com/)  
-Cěljem stvorjenja toj klaviatury je uveličenje sistematičnosti i utrudnjenje slučajnogo vpisanja bukv iz inyh slovjanskyh językov  
+Medžuslovjanska klaviatura (na Windows)
+Imaje jedino simboly, ktore sųt [tut](http://steen.free.fr/interslavic/orthography.html)
+Cěljem stvorjenja toj klaviatury je uveličenje sistematičnosti i utrudnjenje slučajnogo vpisanja bukv iz inyh slovjanskyh językov
 
 Instalacija:
 
@@ -15,10 +14,9 @@ Instalacija:
 
 # МС (Кирилица):
 
-Опрошчена меджусловјанска клавиатура (на Windows)  
-Не имаје симболов из иных словјанскых језыков, как ћ, ą, á, ђ, итд.  
-Имаје једино (имајмо надěју) симболы, кторе сут в [словнику](https://interslavic-dictionary.com/)  
-цєљем створјенја тој клавиатуры је увеличенје систематичности и утрудњенје случајного вписанја букв из иных словјанскых језыков  
+Меджусловјанска клавиатура (на Windows)<br>
+Имаје једино (имајмо надěју) симболы, кторе сут [тут](http://steen.free.fr/interslavic/orthography.html)
+цєљем створјенја тој клавиатуры је увеличенје систематичности и утрудњенје случајного вписанја букв из иных словјанскых језыков<br>
 
 Инсталација:
 
@@ -29,10 +27,9 @@ Instalacija:
 
 # EN:
 
-A simplified Interslavic keyboard (for Windows)  
-It doesn't have symbols from other Slavic languages, like ć, ą, á, đ, etc.  
-It only (hopefully) has symbols that are in the [dictionary](https://interslavic-dictionary.com/)  
-The purpose of this keyboard is to increase systematicity and make less common Slavic characters from other languages harder to type accidentally.  
+Interslavic keyboard (for Windows)<br>
+It only has symbols that are [here](http://steen.free.fr/interslavic/orthography.html)
+The purpose of this keyboard is to increase systematicity and make less common Slavic characters from other languages harder to type accidentally.<br>
 
 Installation:
 
