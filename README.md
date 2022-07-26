@@ -1,11 +1,11 @@
 ![Keyboard](Keyboard.png "Interslavic keyboard")
 # MS (Latinica):
 
-Medžuslovjanska klaviatura (na Windows)
-Imaje jedino simboly, ktore sųt [tut](http://steen.free.fr/interslavic/orthography.html)
-Cěljem stvorjenja toj klaviatury je uveličenje sistematičnosti i utrudnjenje slučajnogo vpisanja bukv iz inyh slovjanskyh językov
+Medžuslovjanska klaviatura (na Windows)  
+Imaje jedino simboly, ktore sųt [tut](http://steen.free.fr/interslavic/orthography.html)  
+Cěljem stvorjenja toj klaviatury je uveličenje sistematičnosti i utrudnjenje slučajnogo vpisanja bukv iz inyh slovjanskyh językov  
 
-Instalacija:
+### Instalacija:
 
 1.  Aktivujte setup.exe (ne izměnjajte ničego v folderu build)
 2.  Sresetujte kompjuter
@@ -14,11 +14,11 @@ Instalacija:
 
 # МС (Кирилица):
 
-Меджусловјанска клавиатура (на Windows)<br>
-Имаје једино (имајмо надěју) симболы, кторе сут [тут](http://steen.free.fr/interslavic/orthography.html)
-цєљем створјенја тој клавиатуры је увеличенје систематичности и утрудњенје случајного вписанја букв из иных словјанскых језыков<br>
+Меджусловјанска клавиатура (на Windows)  
+Имаје једино (имајмо надěју) симболы, кторе сут [тут](http://steen.free.fr/interslavic/orthography.html)  
+цєљем створјенја тој клавиатуры је увеличенје систематичности и утрудњенје случајного вписанја букв из иных словјанскых језыков  
 
-Инсталација:
+### Инсталација:
 
 1.  Активујте setup.exe (не измěнјајте ничего в фолдеру build)
 2.  Сресетујте компјутер
@@ -27,11 +27,11 @@ Instalacija:
 
 # EN:
 
-Interslavic keyboard (for Windows)<br>
-It only has symbols that are [here](http://steen.free.fr/interslavic/orthography.html)
-The purpose of this keyboard is to increase systematicity and make less common Slavic characters from other languages harder to type accidentally.<br>
+Interslavic keyboard (for Windows)  
+It only has symbols that are [here](http://steen.free.fr/interslavic/orthography.html)  
+The purpose of this keyboard is to increase systematicity and make less common Slavic characters from other languages harder to type accidentally  
 
-Installation:
+### Installation:
 
 1.  Run setup.exe (don't change anything in the build folder)
 2.  Restart the computer
